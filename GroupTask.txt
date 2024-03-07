@@ -1,2 +1,4 @@
 Cd (Change direction)
 rm (Remove direction)
+ls (listlere baxmag ucun)
+
