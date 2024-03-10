@@ -2,5 +2,3 @@ Cd (Change direction)
 rm (Remove direction)
 ls (listlere baxmag ucun)
 ls -la (gizli listleride gosterir)
-pwd(harda oldugunu gosterir)
-
