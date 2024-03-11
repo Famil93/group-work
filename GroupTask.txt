@@ -1,6 +1,7 @@
 Cd (Change direction)
 rm (Remove direction)
-burada qeyd olunmus bezi 
-melumatlarda sehvlik var
-xais olunur duzeldersiz
+ls (listlere baxmag ucun)
+ls -la (gizli listleride gosterir)
+pwd(harda oldugunu gosterir)
+
 
