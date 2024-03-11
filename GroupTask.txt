@@ -4,3 +4,4 @@ ls (listlere baxmag ucun)
 ls -la (gizli listleride gosterir)
 pwd(harda oldugunu gosterir)
 
+
